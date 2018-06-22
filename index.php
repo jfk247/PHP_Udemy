@@ -9,9 +9,7 @@
     <h1>
 <?php
     echo "Welcome, I am connecting Android to PHP, MySQL";
-    ?>
-    <br>
-    <?php
+    
 	echo "This is my test index page";
 ?>
 </h1>
